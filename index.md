@@ -1,4 +1,4 @@
-## Natalie D.
+## Natalie Dovale
 
 <img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Marketing and Sales Manager<br/>
 &nbsp; ~Roy's Auto Sales & Service <br/>
