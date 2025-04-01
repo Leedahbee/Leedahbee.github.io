@@ -6,7 +6,7 @@
 &nbsp; ~Elliot Hospital <br/>
 &nbsp; &nbsp; email: nataliedov@hotmail.com<br/>
 &nbsp; &nbsp; [Resume](https://docs.google.com/document/d/14Z6EaGyPkXhglJOP3bw3A3wkWA113if3x3NgrTIWwkE/edit?usp=sharing)
-
+<br/>
 <br/>
 
 ### About Me
