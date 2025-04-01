@@ -1,9 +1,9 @@
 ## Natalie D.
 
 <img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Marketing and Sales Manager<br/>
-&nbsp; Roy's Auto Sales & Service <br/>
+&nbsp; ~Roy's Auto Sales & Service <br/>
 &nbsp; Mobility Technician <br/>
-&nbsp; Elliot Hospital <br/>
+&nbsp; ~Elliot Hospital <br/>
 &nbsp; &nbsp; email: nataliedov@hotmail.com<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
