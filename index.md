@@ -28,7 +28,7 @@ I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Sout
 <br/>
 
 #### [RNA-seq Part 2](https://github.com/Leedahbee/BioInformatics-/blob/main/RNA%20Seq%20dos.qmd) <br/>
-&nbsp; &nbsp; &nbsp; Building on the ideas and techniques learned in Part 1 of the RNA-seq project, the model plant _Arabidopsis_ was used to create a heatmap. The resulting heatmap was used to better visualize the different gene expression patterns in the plant RNA. It was noted that there may be inverse relationship between genes 2 and 3 in particualar in the plant root due to the difference in log(TPM) values between the two genes.
+&nbsp; &nbsp; &nbsp; Building on the ideas and techniques learned in Part 1 of the RNA-seq project, the model plant _Arabidopsis_ was used to create a heatmap. The resulting heatmap was used to better visualize the different gene expression patterns in the plant RNA. It was noted that there may be an inverse relationship between genes 2 and 3 in particualar in the plant root due to the difference in log(TPM) values between the two genes.
 <br/>
 
 #### [Phyolgenetic Analysis] ()
