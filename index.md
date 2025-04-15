@@ -31,7 +31,7 @@ I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Sout
 &nbsp; &nbsp; &nbsp; Building on the ideas and techniques learned in Part 1 of the RNA-seq project, the model plant _Arabidopsis_ was used to create a heatmap. The resulting heatmap was used to better visualize the different gene expression patterns in the plant RNA. It was noted that there may be an inverse relationship between genes 2 and 3 in particualar in the plant root due to the difference in log(TPM) values between the two genes.
 <br/>
 
-#### [Phyolgenetic Analysis] (https://github.com/Leedahbee/BioInformatics-/blob/main/Phylogenetics.qmd) <br/>
+#### [Phyolgenetic Analysis](https://github.com/Leedahbee/BioInformatics-/blob/main/Phylogenetics.qmd) <br/>
 &nbsp; &nbsp; &nbsp; A basic excercise in the creation and manipulation of evolutionary trees using basic mammal and bacterial phylogenetic information. The analysis shows the relationship between different mammal species showing a closer relationship between humans and gorillas compared to rodents or bovines. Manipulations included changed the layout to circular, adding lables and annotations, or displaying a tree as unrooted. Included is also methods for converting between different file formats for trees digestible by humans or computers.
 
 
