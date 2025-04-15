@@ -21,10 +21,18 @@ I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Sout
 
 #### [Dog Breeds Biostatistical Analysis](https://github.com/Leedahbee/BioStatisticsAnalysis/blob/main/Dog%20Breeds%20Biostats.qmd) <br/>
 &nbsp; &nbsp; &nbsp; Little Dog Syndrome and Large Dogs as Gentle Giants? This Analysis seeks to find out if there is any eviednce in the data set that the trait scores of large and small breeds fit the sterotypes. Using charts and tables to support conclusions an in depth analysis of hundreds of dog breeds on traits such as how good they are with children and other dogs, their barking level, and their trainability. Also includes an added analysis about the possible bias of the data set due to troubling trends found during the main analysis.
+<br/>
 
 #### [RNA-seq Part 1](https://github.com/Leedahbee/BioInformatics-/blob/main/RNA%20Seq%20FINAL.qmd) <br/>
-&nbsp; &nbsp; &nbsp; RNA-seq is a burgeoning new genetic technique used to better understand organisms by way of RNA quantification. Using high throughput seqeuncing methods RNA of a whole species or specific genes there of can be quantified by their expression. This particular analysis looks at the expression of 15,000 genes of the organism _Drosophila melanogaster_. In particular, looking at the difference in gene expression during the first versus second instar.
+&nbsp; &nbsp; &nbsp; RNA-seq is a burgeoning new genetic technique used to better understand organisms by way of RNA quantification. Using high throughput seqeuncing methods RNA of a whole species or specific genes there of can be quantified by their expression. This particular analysis looks at the expression of 15,000 genes of the organism _Drosophila melanogaster_. In particular, looking at the difference in gene expression during the first versus second instar. It was determined that there were several genes related to the epidermis on various areas of the organism that are expressed differently between different stages of embryonic development.
+<br/>
 
+#### [RNA-seq Part 2] (https://github.com/Leedahbee/BioInformatics-/blob/main/RNA%20Seq%20dos.qmd)
+&nbsp; &nbsp; &nbsp; Building on the ideas and techniques learned in Part 1 of the RNA-seq project, the model plant _Arabidopsis_ was used to create a heatmap. The resulting heatmap was used to better visualize the different gene expression patterns in the plant RNA. It was noted that there may be inverse relationship between genes 2 and 3 in particualar in the plant root due to the difference in log(TPM) values between the two genes.
+<br/>
+
+#### [Phyolgenetic Analysis] ()
+&nbsp; &nbsp; &nbsp;
 
 
 
