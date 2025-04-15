@@ -27,7 +27,7 @@ I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Sout
 &nbsp; &nbsp; &nbsp; RNA-seq is a burgeoning new genetic technique used to better understand organisms by way of RNA quantification. Using high throughput seqeuncing methods RNA of a whole species or specific genes there of can be quantified by their expression. This particular analysis looks at the expression of 15,000 genes of the organism _Drosophila melanogaster_. In particular, looking at the difference in gene expression during the first versus second instar. It was determined that there were several genes related to the epidermis on various areas of the organism that are expressed differently between different stages of embryonic development.
 <br/>
 
-#### [RNA-seq Part 2] (https://github.com/Leedahbee/BioInformatics-/blob/main/RNA%20Seq%20dos.qmd)
+#### [RNA-seq Part 2](https://github.com/Leedahbee/BioInformatics-/blob/main/RNA%20Seq%20dos.qmd) <br/>
 &nbsp; &nbsp; &nbsp; Building on the ideas and techniques learned in Part 1 of the RNA-seq project, the model plant _Arabidopsis_ was used to create a heatmap. The resulting heatmap was used to better visualize the different gene expression patterns in the plant RNA. It was noted that there may be inverse relationship between genes 2 and 3 in particualar in the plant root due to the difference in log(TPM) values between the two genes.
 <br/>
 
