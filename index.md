@@ -7,6 +7,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ### About Me
 I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Southeastern University. I am a full-time student focusing on a pre-medical school concentration while also working two jobs. I work part-time at SNHU as a Learning Fellow for the MAT-241 class: Modern Statistics w/ Coding. I also work Per-deim as a Mobility Technician at Elliot Hospital. My duties at Elliot Hospital include assisting and motivating patients to mobilize during their inpatient hospital stay, helping with patient transfers, and following physical therapy activity orders. In my free time, I enjoy painting, playing video games, cooking, and spending time with my dog and family.
 <br/>
