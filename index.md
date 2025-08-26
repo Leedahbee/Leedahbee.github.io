@@ -1,4 +1,4 @@
-<img src="SiteFiles/lylahandme.jpg" align="left" width=150>&nbsp; #Learning Fellow <br/>
+<img src="SiteFiles/lylahandme.jpg" align="left" width=150>&nbsp; Learning Fellow <br/>
 &nbsp; ~SNHU MAT-241 <br/>
 &nbsp; Mobility Technician <br/>
 &nbsp; ~Elliot Hospital <br/>
