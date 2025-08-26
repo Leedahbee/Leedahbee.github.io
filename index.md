@@ -1,6 +1,7 @@
-<img src="SiteFiles/lylahandme.jpg" align="left" width=200>&nbsp; Learning Fellow <br/>
+<img src="SiteFiles/lylahandme.jpg" align="left" width=200> &nbsp; 
 <br/>
 <br/>
+&nbsp; Learning Fellow
 &nbsp; ~SNHU MAT-241 <br/>
 &nbsp; Mobility Technician <br/>
 &nbsp; ~Elliot Hospital <br/>
