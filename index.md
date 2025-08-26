@@ -1,11 +1,11 @@
 <img src="SiteFiles/lylahandme.jpg" align="left" width=200> &nbsp; 
 <br/>
 <br/>
-&nbsp; Learning Fellow
+&nbsp; Learning Fellow <br/>
 &nbsp; ~SNHU MAT-241 <br/>
 &nbsp; Mobility Technician <br/>
 &nbsp; ~Elliot Hospital <br/>
-&nbsp; &nbsp; email: natalie.dovale@snhu.edu<br/>
+&nbsp; &nbsp; email: natalie.dovale@snhu.edu <br/>
 &nbsp; &nbsp; [Resume](https://docs.google.com/document/d/14Z6EaGyPkXhglJOP3bw3A3wkWA113if3x3NgrTIWwkE/edit?usp=sharing)
 <br/>
 <br/>
