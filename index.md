@@ -1,12 +1,12 @@
-<img src="SiteFiles/lylahandme.jpg" align="left" width=150>&nbsp; # Learning Fellow <br/>
+<img src="SiteFiles/lylahandme.jpg" align="left" width=150>&nbsp; #Learning Fellow <br/>
 &nbsp; ~SNHU MAT-241 <br/>
-&nbsp; # Mobility Technician <br/>
+&nbsp; Mobility Technician <br/>
 &nbsp; ~Elliot Hospital <br/>
 &nbsp; &nbsp; email: natalie.dovale@snhu.edu<br/>
 &nbsp; &nbsp; [Resume](https://docs.google.com/document/d/14Z6EaGyPkXhglJOP3bw3A3wkWA113if3x3NgrTIWwkE/edit?usp=sharing)
 <br/>
 <br/>
-
+<br/>
 ### About Me
 I am an Undergraduate Biology Student at SNHU with prior coursework at Nova Southeastern University. I am a full-time student focusing on a pre-medical school concentration while also working two jobs. I work part-time at SNHU as a Learning Fellow for the MAT-241 class: Modern Statistics w/ Coding. I also work Per-deim as a Mobility Technician at Elliot Hospital. My duties at Elliot Hospital include assisting and motivating patients to mobilize during their inpatient hospital stay, helping with patient transfers, and following physical therapy activity orders. In my free time, I enjoy painting, playing video games, cooking, and spending time with my dog and family.
 <br/>
